@@ -6,21 +6,17 @@
             "type" : "North Indian, Biryani",
             "city" : "Bilekahalli, Bilekahalli"
         },
-        "restaurantInfo" : [
-            {
-                "heading" : "3.9",
-                "paragraph" : "100+ Ratings",
-                "img" : "star.svg"
+        "restaurantInfo" : {
+            "ratingInfo" :{
+                "rating" : "3.9",
+                "ratingCount" : "100"
             },
-            {
-                "heading" : "Closed",
-                "paragraph" : "For delivery" 
-            },
-            {
-                "heading" : "₹200", 
-                "paragraph" : "Cost for two"
+            "deliveryTime" : "40 mins",
+            "costInfo" : {
+                "cost" : 200,
+                "peopleCount" : "two"
             }
-        ],
+        },
         "offers" : [
             "20% off up to ₹125 | Use KOTAK125 Above ₹500",
             "20% off up to ₹150 | Use PAYTMBANK150 Above ₹450"
