@@ -28,7 +28,7 @@
     "foodListDetails" : [
         {
             "id" : 1,
-            "foddListData" : {
+            "foodListData" : {
                 "Starters": [
                     {
                         "id":1,
